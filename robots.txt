@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://agorther.github.io/sitemap.html.gz
+Sitemap: https://agorther.github.io/app/sitemap.html.gz
+Sitemap: https://agorther.github.io/assets/sitemap.html.gz
+Sitemap: https://agorther.github.io/css/sitemap.html.gz
+Sitemap: https://agorther.github.io/includes/sitemap.html.gz
+Sitemap: https://agorther.github.io/item/sitemap.html.gz
+Sitemap: https://agorther.github.io/src/sitemap.html.gz
